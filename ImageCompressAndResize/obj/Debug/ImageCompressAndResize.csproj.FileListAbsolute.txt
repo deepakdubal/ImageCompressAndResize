@@ -1,0 +1,9 @@
+D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\bin\Debug\ImageCompressAndResize.exe.config
+D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.csprojResolveAssemblyReference.cache
+D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.FrmMain.resources
+D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.Properties.Resources.resources
+D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.csproj.GenerateResource.Cache
+D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\bin\Debug\ImageCompressAndResize.exe
+D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\bin\Debug\ImageCompressAndResize.pdb
+D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.exe
+D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.pdb
