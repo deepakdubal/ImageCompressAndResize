@@ -7,3 +7,12 @@ D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\bin\Debug\ImageCompres
 D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\bin\Debug\ImageCompressAndResize.pdb
 D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.exe
 D:\PROJECTS\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.pdb
+D:\DEEPAK_DUBAL\GitHub\ImageCompressAndResize\ImageCompressAndResize\bin\Debug\ImageCompressAndResize.exe.config
+D:\DEEPAK_DUBAL\GitHub\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.exe
+D:\DEEPAK_DUBAL\GitHub\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.pdb
+D:\DEEPAK_DUBAL\GitHub\ImageCompressAndResize\ImageCompressAndResize\bin\Debug\ImageCompressAndResize.exe
+D:\DEEPAK_DUBAL\GitHub\ImageCompressAndResize\ImageCompressAndResize\bin\Debug\ImageCompressAndResize.pdb
+D:\DEEPAK_DUBAL\GitHub\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.csprojResolveAssemblyReference.cache
+D:\DEEPAK_DUBAL\GitHub\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.FrmMain.resources
+D:\DEEPAK_DUBAL\GitHub\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.Properties.Resources.resources
+D:\DEEPAK_DUBAL\GitHub\ImageCompressAndResize\ImageCompressAndResize\obj\Debug\ImageCompressAndResize.csproj.GenerateResource.Cache
