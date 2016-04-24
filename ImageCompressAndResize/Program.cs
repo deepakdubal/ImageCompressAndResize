@@ -17,6 +17,7 @@ namespace ImageCompressAndResize
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new FrmMain());
+            //This is new line
         }
     }
 }
